@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahmoudyousry5.github.io/FreelanceFlow/sitemap.xml
